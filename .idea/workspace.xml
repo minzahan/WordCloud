@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eb60a58-e43a-4b94-bc83-212f40331763" name="Default Changelist" comment="" />
+    <list default="true" id="3eb60a58-e43a-4b94-bc83-212f40331763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ignore_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ignore_list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53904be67e4ad35da3e5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53904be67e4ad35da3e5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53904be67e4ad35da3e5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TopWords.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TopWords.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/TopWordsTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/TopWordsTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/api/TopWords$.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/api/TopWords$.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TopWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/cs371f19p2b_2.12-0.1-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/cs371f19p2b_2.12-0.1-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/cs371f19p2b_2.12-0.1-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/cs371f19p2b_2.12-0.1-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/cs371f19p2b_2.12-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/cs371f19p2b_2.12-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/TopWordsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateSbtClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/doc/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/_global/streams/scala/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/doc/_global/streams/scala/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/_global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/_global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/universal/stage/_global/streams/packager-mappings-universal" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/universal/stage/_global/streams/packager-mappings-universal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/universal/stage/lib/default.cs371f19p2b-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/universal/stage/lib/default.cs371f19p2b-0.1.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -51,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/TopWords.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+            <state relative-caret-position="211">
+              <caret line="76" column="142" selection-start-line="76" selection-start-column="142" selection-end-line="76" selection-end-column="142" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -63,27 +106,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/TopWordsTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <state relative-caret-position="245">
+              <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ignore_list.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,17 +142,19 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/test/scala/TestTopWords.scala" />
         <option value="$PROJECT_DIR$/ignoreList.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/Matrix.scala" />
         <option value="$PROJECT_DIR$/ignore_list.txt" />
         <option value="$PROJECT_DIR$/src/test/scala/TopWordsTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/TopWords.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1905" />
-    <option name="width" value="1948" />
+    <option name="width" value="1950" />
     <option name="height" value="2075" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -160,6 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -227,7 +280,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopWordsTest.The function TopWords.config when given zero arguments should utilize default values" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="TopWordsTest.The function TopWords.createCloud when given a nonempty iterator should produce the correct nonempty output ignoring case" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="cs371f19p2b" />
       <setting name="path" value="TopWordsTest" />
       <setting name="vmparams" value="" />
@@ -241,7 +294,7 @@
       <envs />
       <setting name="testKind" value="Test name" />
       <setting name="path" value="TopWordsTest" />
-      <setting name="testName" value="The function TopWords.config when given zero arguments should utilize default values" />
+      <setting name="testName" value="The function TopWords.createCloud when given a nonempty iterator should produce the correct nonempty output ignoring case" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,16 +322,16 @@
       <item itemvalue="Application.TopWords" />
       <item itemvalue="ScalaTest.TopWordsTest" />
       <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.config when given three arguments should utilize given arguments" />
-      <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.config when given zero arguments should utilize default values" />
       <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.wordCount when given a nonempty iterator should produce the correct nonempty output" />
+      <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.createCloud when given a nonempty iterator should produce the correct nonempty output ignoring case" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="ScalaTest.TopWordsTest" />
         <item itemvalue="Application.TopWords" />
+        <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.createCloud when given a nonempty iterator should produce the correct nonempty output ignoring case" />
+        <item itemvalue="ScalaTest.TopWordsTest" />
         <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.config when given three arguments should utilize given arguments" />
-        <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.config when given zero arguments should utilize default values" />
-        <item itemvalue="ScalaTest.TopWordsTest.The function TopWords.wordCount when given a nonempty iterator should produce the correct nonempty output" />
       </list>
     </recent_temporary>
   </component>
@@ -337,26 +390,12 @@
       <workItem from="1570205578135" duration="4005000" />
       <workItem from="1570210706123" duration="12217000" />
       <workItem from="1570674054740" duration="822000" />
-      <workItem from="1571084093289" duration="4261000" />
+      <workItem from="1571084093289" duration="8993000" />
+      <workItem from="1571339296421" duration="8988000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TopWordsTest - 2019.10.05 at 12h 05m 58s.xml">
-      <configuration name="TopWordsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TopWordsTest_The_function_TopWords_wordCount_when_given_a_nonempty_iterator_should_produce_the_correct_nonempty_output - 2019.10.05 at 12h 41m 07s.xml">
-      <configuration name="TopWordsTest.The function TopWords.wordCount when given a nonempty iterator should produce the correct nonempty output" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TopWordsTest_The_function_TopWords_wordCount_when_given_a_nonempty_iterator_should_produce_the_correct_nonempty_output - 2019.10.05 at 12h 41m 52s.xml">
-      <configuration name="TopWordsTest.The function TopWords.wordCount when given a nonempty iterator should produce the correct nonempty output" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TopWordsTest_The_function_TopWords_config_when_given_zero_arguments_should_utilize_default_values - 2019.10.05 at 12h 42m 09s.xml">
-      <configuration name="TopWordsTest.The function TopWords.config when given zero arguments should utilize default values" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TopWordsTest_The_function_TopWords_config_when_given_zero_arguments_should_utilize_default_values - 2019.10.05 at 12h 42m 41s.xml">
-      <configuration name="TopWordsTest.The function TopWords.config when given zero arguments should utilize default values" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TopWordsTest_The_function_TopWords_config_when_given_three_arguments_should_utilize_given_arguments - 2019.10.05 at 12h 44m 50s.xml">
       <configuration name="TopWordsTest.The function TopWords.config when given three arguments should utilize given arguments" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -369,15 +408,33 @@
     <history-entry file="TopWordsTest - 2019.10.14 at 16h 01m 38s.xml">
       <configuration name="TopWordsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="TopWordsTest - 2019.10.15 at 14h 17m 37s.xml">
+      <configuration name="TopWordsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TopWordsTest - 2019.10.17 at 15h 47m 52s.xml">
+      <configuration name="TopWordsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TopWordsTest - 2019.10.17 at 15h 48m 20s.xml">
+      <configuration name="TopWordsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TopWordsTest - 2019.10.21 at 17h 23m 27s.xml">
+      <configuration name="TopWordsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TopWordsTest - 2019.10.21 at 17h 27m 13s.xml">
+      <configuration name="TopWordsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TopWordsTest_The_function_TopWords_createCloud_when_given_a_nonempty_iterator_should_produce_the_correct_nonempty_output_ignoring_case - 2019.10.21 at 17h 28m 09s.xml">
+      <configuration name="TopWordsTest.The function TopWords.createCloud when given a nonempty iterator should produce the correct nonempty output ignoring case" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21305000" />
+    <option name="totallyTimeSpent" value="35025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09590878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09725017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -386,14 +443,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33097595" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3026874" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3493635" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34512022" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
@@ -453,23 +510,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ignore_list.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/TopWordsTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -477,10 +517,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/X1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Matrix.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ignore_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/TopWordsTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/TopWords.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        <state relative-caret-position="211">
+          <caret line="76" column="142" selection-start-line="76" selection-start-column="142" selection-end-line="76" selection-end-column="142" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>

@@ -6,7 +6,7 @@ class TopWordsTest extends WordSpec {
     "given an empty iterator" should {
       "produce an empty output" in {
 
-        val result: List[String] = TopWords.createCloud(
+        val result = TopWords.createCloud(
           howMany = 1,
           minLength = 1,
           lastNWords = 1,
@@ -21,7 +21,7 @@ class TopWordsTest extends WordSpec {
       "produce the correct nonempty output" in {
         // input data for this test case
         val data: Iterator[String] = Seq("a", "b", "c", "aa", "bb", "cc", "aa", "bb", "aa", "bb").iterator
-        val result: List[String] = TopWords.createCloud(
+        val result = TopWords.createCloud(
           howMany = 3,
           minLength = 2,
           lastNWords = 5,
@@ -29,7 +29,37 @@ class TopWordsTest extends WordSpec {
           ignoreList = Set.empty
         )
 
-        assert(result === List("bb:2", "aa:2", "cc:1"))
+        assert(result.toList === List("bb:2 aa:2 cc:1", "bb:2 aa:2 cc:1", "bb:2 aa:2 cc:1"))
+      }
+    }
+    "given a nonempty iterator and ignore list" should {
+      "produce the correct nonempty output while ignoring words in said list" in {
+        // input data for this test case
+        val data: Iterator[String] = Seq("a", "b", "c", "aa", "bb", "cc", "aa", "bb", "aa", "bb", "aa").iterator
+        val result = TopWords.createCloud(
+          howMany = 3,
+          minLength = 2,
+          lastNWords = 5,
+          lines = data,
+          ignoreList = Set("bb")
+        )
+
+        assert(result.toList === List("aa:4 cc:1"))
+      }
+    }
+    "given a nonempty iterator" should {
+      "produce the correct nonempty output ignoring case" in {
+        // input data for this test case
+        val data: Iterator[String] = Seq("a", "b", "c", "AA", "bb", "CC", "aa", "BB", "aa", "bb").iterator
+        val result = TopWords.createCloud(
+          howMany = 3,
+          minLength = 2,
+          lastNWords = 5,
+          lines = data,
+          ignoreList = Set.empty
+        )
+
+        assert(result.toList === List("bb:2 aa:2 cc:1", "bb:2 aa:2 cc:1", "bb:2 aa:2 cc:1"))
       }
     }
   }
